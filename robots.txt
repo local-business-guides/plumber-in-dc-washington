@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/plumber-in-dc-washington/sitemap.xml
+Sitemap: https://local-business-guides.github.io/plumber-in-dc-washington/news-sitemap.xml
